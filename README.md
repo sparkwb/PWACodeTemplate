@@ -1,2 +1,3 @@
-# PWACodeTemplate
-This Repository Contains ReadyMade Codes For setting Up PWA's.
+# PWACodeTemplates
+Contains Template Code For Each function Of Manifest.json and service-worker.js
+
