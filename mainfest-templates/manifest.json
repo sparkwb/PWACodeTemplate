@@ -1,0 +1,26 @@
+{
+    "name": "Your App Name",
+    "short_name": "App Short Name",
+    "start_url": "yourstarturl.com",
+    "scope": "yourscopeurl.com",
+    "display": "minimal-ui",
+    "background_color": "#ffffff",
+    "theme_color": "#4a90e2",
+    "description": "App Description",
+    "icons": [
+      {
+        "src": "https://i.ibb.co/fSYf6LH/web.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "https://i.ibb.co/fSYf6LH/web.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "dir": "ltr",
+    "lang": "en",
+    "orientation": "portrait",
+    "id": "youridentifierid"
+  }
